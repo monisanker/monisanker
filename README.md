@@ -66,5 +66,5 @@
 <a href="https://github.com/monisanker/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=monisanker">
 </a>
-<a href="https://github.com/nilay-code?tab=followers"><img src="https://img.shields.io/github/followers/monisanker?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/monisanker?tab=followers"><img src="https://img.shields.io/github/followers/monisanker?label=Followers&style=social" alt="GitHub Badge"></a>
 
